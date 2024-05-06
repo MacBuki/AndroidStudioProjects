@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">march26th</string>
+    <string name="hello_there">Line1 of long message\nLine2 of long msg\n...\nlast line</string>
+    <string name="buttonExit_caption">Exit App</string>
+</resources>

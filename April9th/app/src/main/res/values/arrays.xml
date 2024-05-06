@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_items">
+        <item>mike</item>
+        <item>angel</item>
+        <item>crow</item>
+        <item>john</item>
+        <item>ginnie</item>
+        <item>sally</item>
+        <item>cohen</item>
+        <item>rice</item>
+    </string-array>
+</resources>
